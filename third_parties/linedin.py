@@ -19,6 +19,3 @@ def scrape_linkedin_profile(linkedin_frofile_url: str):
 
 
 print(scrape_linkedin_profile)
-
-
-
